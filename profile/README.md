@@ -4,7 +4,7 @@
 
 如果你是本班成员，且有GitHub账户，可以申请加入此团队
 
-这里托管了本班的[网站](https://lpsez2025class2.github.io/)，请记住此网站的长期地址`https://lpsez2025class2.github.io/`
+这里托管了本班的[网站](https://lpsez2025class2.github.io/)，请记住此网站的长期地址[`lpsez2025class2.github.io`](https://lpsez2025class2.github.io/)
 
 可以通过提交GitHub Issue来联系团队管理员或发送邮件到
 
